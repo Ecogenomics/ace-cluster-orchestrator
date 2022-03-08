@@ -2,6 +2,8 @@
 
 This repository is a template for distributing and orchestrating jobs across the ACE cluster.
 
+![overview](overview.png)
+
 ## 1. Setup
 
 ### 1a. Repository
@@ -46,6 +48,8 @@ Ensure that you have uploaded the `enqueue.py` and `worker.py` files to the netw
 on your local machine.
 
 ### 3a. Enqueuing jobs
+
+Simply run the `enqueue.py file`.
 
 ### 3b. Starting workers
 
